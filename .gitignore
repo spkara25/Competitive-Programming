@@ -1,0 +1,16 @@
+# IDE and environment folders
+.idea/
+.venv/
+.vscode/
+__pycache__/
+
+# Folders to exclude
+Algorithms/
+basicPython/
+BCSE204L-Practice/
+LeetCode/
+Two-Pointers/
+
+# Loose files to exclude
+main.py
+recursion.py
